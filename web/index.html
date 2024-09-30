@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LangGuessr</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body id=a style="background-image: url(https://images.pexels.com/photos/1679719/pexels-photo-1679719.jpeg);">
+  <nav>
+    <ul>
+      <li><a href="https://github.com/Ivo14/geographyle">Source code</a></li>
+    </ul>
+  </nav>
+    <h2 id=Message style="color: rgb(255, 255, 255)">What's this language?</h2>
+    <p id="text"></p>
+    <div>
+    <span class="input">
+        <input placeholder="Enter language" id='GuessInput' name="language" list="languages" type='text'>
+      </span>
+      
+      <datalist id="languages">
+        <option value="Boston">
+        <option value="Cambridge">
+        <option value="Boston">
+        <option value="Cambridge">      
+        <option value="Boston">
+        <option value="Cambridge">
+        <option value="Cambridge">
+        <option value="Boston">
+        <option value="Cambridge">      
+        <option value="Boston">
+        <option value="Cambridge">
+        <option value="Cambridge">
+        <option value="Boston">
+        <option value="Cambridge">
+      </datalist>
+      <button class="buttons" id='GuessInputButton'>Guess</button>
+    </div>
+    <div class='wrongAnswers strokemered' id="wrongAnswers"></div>
+    <button class="buttons" id='NewGameButton'>New game</button>
+    <script src="script.js"></script>
+</body>
+
+</html>

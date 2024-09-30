@@ -1,0 +1,103 @@
+body{
+    text-align: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    color:rgb(255, 255, 255);
+    margin:auto;
+    line-height:1;
+    font-size: 165%;
+    padding-right: 10%;
+    padding-left: 10%;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+  .buttons {
+    background: #5E5DF0;
+    border-radius: 999px;
+    box-shadow: #5E5DF0 0 10px 20px -10px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: 350;
+    line-height: 12px;
+    opacity: 1;
+    outline: 0 solid transparent;
+    padding: 8px 18px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: fit-content;
+    word-break: break-word;
+    border: 0;
+  }
+  .input {
+    position:relative;
+    font-size: 0.5em;
+    background: linear-gradient(21deg, #10abff, #1beabd);
+    padding: 3px;
+    display: inline-block;
+    border-radius: 9999em;
+    *:not(span) {
+      position: relative;
+      display: inherit;
+      border-radius: inherit;
+      margin: 0;
+      border: none;
+      outline: none;
+      padding: 0 .325em;
+      z-index: 1; 
+      min-width: 12em;
+      min-height: 3.13em;
+      
+      &:focus + span {
+        opacity: 1;
+        transform: scale(1);
+      }
+    }
+    
+   
+    span {
+      box-shadow: inset 0 0 0 3px #fff,
+        0 0 0 4px #fff,
+        3px -3px 15px #1beabd, 
+        -3px 3px 15px #10abff;
+    }
+    
+  }
+  .strokemegreen
+  {
+      color: white;
+      text-shadow:
+      -1px -1px 0 #11e821,
+      1px -1px 0 #11e821,
+      -1px 1px 0 #11e821,
+      1px 1px 0 #11e821;  
+  }
+  .strokemered
+  {
+    line-height:1;
+      color: white;
+      text-shadow:
+      -1px -1px 0 #e93110,
+      1px -1px 0 #e93110,
+      -1px 1px 0 #e93110,
+      1px 1px 0 #e93110;  
+  }
+
+  .wrongAnswers{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 75%;
+  }
+
+  nav ul {
+    list-style: none;
+    position: relative;
+    display: flex;
+    justify-content: left;
+  }
+
+  nav a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+  }
