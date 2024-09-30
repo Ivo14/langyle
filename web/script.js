@@ -99,12 +99,42 @@ let arr = [
 ]
     },
     { "name": "Dutch", "texts": [
-    "Engeland (Engels: England) is een voormalig koninkrijk en maakt als constituerend land met Noord-Ierland, Schotland en Wales deel uit van één soevereine staat: het Verenigd Koninkrijk. Van deze vier is Engeland het gebied met de meeste inwoners en de grootste oppervlakte. Het omvat het zuidelijke deel van het eiland Groot-Brittannië, in het westen grenzend aan Wales en in het noorden aan Schotland. Engeland telde in 2019 ruim 56,3 miljoen inwoners. "
-,"Heteroseksualiteit is een seksualiteit die wordt gekenmerkt door een exclusieve voorkeur voor personen van de andere sekse. Enerzijds verwijst de term naar seksuele handelingen en/of verlangens tussen mensen van verschillend geslacht, anderzijds naar een seksuele identiteit, geaardheid of oriëntatie gekenmerkt door een romantisch of seksueel verlangen naar mensen van de andere sekse. "    
-,"Een familiebedrijf of familiaal bedrijf is een bedrijf dat in aanzienlijke mate wordt beheerd door een familie. Volgens de Europese definitie van familiebedrijven gehanteerd door het CBS is een onderneming, ongeacht grootte, een familiebedrijf, als:     De meerderheid van de besluitvormingsrechten in het bezit is van de natuurlijke perso(o)n(en) die de onderneming opgericht heeft, of in het bezit is van de natuurlijke perso(o)n(en) die het aandelenkapitaal van de onderneming verworven heeft, of in het bezit is van hun echtgenoten, ouders, kinderen of directe erfgenamen van kinderen. - De meerderheid van de besluitvormingsrechten zijn indirect of direct. - Ten minste één vertegenwoordiger van de familie of verwanten is formeel betrokken bij het bestuur van de onderneming."
-,"Een hoofdstad is een stad die de voornaamste politieke status geniet in een land, deelstaat, provincie of andere bestuurlijke entiteit. De positie van hoofdstad is vaak juridisch vastgelegd, soms in een grondwettelijke tekst. Meestal heeft het bestuur van het gebied zijn zetel in de hoofdstad. Een verwante, maar minder specifieke term is hoofdplaats. Deze term kan bij uitbreiding ook worden gebruikt voor de centrumplaats in een gemeente of regio. "
+   "Het Perzisch is de officiële taal van Iran (Perzië), Afghanistan en Tadzjikistan, die ook door miljoenen mensen in Oezbekistan wordt gesproken. Het Perzisch behoort tot de Indo-Europese taalfamilie en daarbinnen is het een onderdeel van de tak van de Iraanse of Arische talen. "
+   ,"Een chemisch of scheikundig element is een stof die met scheikundige middelen en methoden niet in andere stoffen opgesplitst kan worden. Een element bestaat uit één soort atomen met alle hetzelfde atoomnummer, dus met hetzelfde aantal protonen in de kern.[1] Het aantal neutronen in de atomen van een element kan variëren. "     
+   ,"Bandar Seri Begawan (tot 1970 Brunei Town geheten) is de hoofdstad van het Aziatische sultanaat Brunei. In 1995 bedroeg het totaal aantal inwoners circa 46.000. Het is de woonplaats van sultan Hassanal Bolkiah. "
+   ,"De astronomische eenheid (AE, internationaal au of ua) is een afstandsmaat die vrijwel gelijk is aan de gemiddelde afstand tussen de Aarde en de Zon, ongeveer 149,6 miljoen kilometer. Sinds september 2012 is de astronomische eenheid gedefinieerd als exact 149 597 870 700 meter.[1][2] Deze definitie is gebaseerd op metingen uit 2009.[3] Deze maat wordt in de astronomie gebruikt om afstanden in de ruimte aan te duiden, waardoor deze worden vergeleken met de 'straal' van de baan van de Aarde om de Zon. "
+   ,"De Grondwet voor de Bondsrepubliek Duitsland (Duits: Grundgesetz für die Bundesrepublik Deutschland) is de Duitse grondwet en dateert van 23 mei 1949, samen met de stichting van de Bondsrepubliek Duitsland. De grondwet kan alleen veranderd worden met een tweederdemeerderheid van zowel de Bondsdag als de Bondsraad. Daar de Bondsraad en Bondsdag vaak verschillende meerderheden hebben, komt deze regeling in de praktijk er daardoor vaak op neer dat zowel de meerderheidspartijen in de Bondsdag als ook de oppositiepartijen een verandering in de grondwet moeten steunen. "
 ]
-    }
+    },
+    { "name": "Arabic", "texts": [
+    `أحمد كسروي (وإسمه باللغة الفارسية احمد کسروی) هو لغوي ومؤرخ ومصلح إيراني ولد في يوم 29 سبتمبر 1890 في مدينة تبريز في إيران انضم إلى الثورة الدستورية الفارسية 1906 وتلقى تعليمه في الغرب وقد أصبح مع روي متحدة من أبرز دعاة العلمانية في إيران وانتقدوا رجال الدين الإيرانيين وتوفي في يوم 11 مارس 1945 بعد مقتله من قبل مجموعة شيعية متشددة باسم فدائيو الإسلام.`
+    ,`سلسلة المعاجم الموحدة (بالإنجليزية: Series of Unified Dictionaries) هي سلسلة من المعجمات المتخصصة متعددة اللغات، الإنجليزية والفرنسية والعربية، التي تصدر صدوراً غير دوري عن مكتب تنسيق التعريب بالرباط. يتبع هذا المكتب المنظمة العربية للتربية والثقافة والعلوم وهي إحدى منظمات جامعة الدول العربية. `
+    ,`الثورة الدستورية الفارسية أوالثورة الدستورية الإيرانية (الفارسية: مشروطيت، الترجمة الحرفية: مشروطيت أو انقلاب مشروطه (تُعرف أيضًا بأنها ثورة إيران الدستورية) وتعرف في العراق باسم (حادثة المشروطة) و (حركة المشروطة والمستبدة) وقد حدثت بين الأعوام (1905-1911م). وأدت الثورة إلى إقامة مجلس نواب في بلاد فارس في عهد السلالة القاجارية التي كانت تحكم إيران . `
+    ,`اللغة الهولندية إحدى اللغات الجرمانية الغربية. يبلغ عدد الناطقين بها حوالي 22 مليوناً كلغة أم وحوالي 5 ملايين كلغة ثانية. وتعتبر لغة رئيسية في كل من هولندا وبلجيكا وسورينام. معظم المتكلمين بالهولندية يعيشون في هولندا، وبلجيكا، وسورينام، مع مجموعات صغيرة من المتحدثين في أجزاء من فرنسا وألمانيا والعديد من المستعمرات الهولندية السابقة. وهي كلغة مرتبطة ارتباطاً وثيقاً باللغات الجرمانية الغربية (على سبيل المثال: الإنجليزية، الفريزية الغربية والألمانية) وإلى حد ما عن بعد باللغات الجرمانية الشمالية. الهولندية محكية أيضاً في بعض الدول الأفريقية، إذ هي إحدى اللغات الرسمية لجنوب أفريقيا، ومحكية على نطاق واسع في ناميبيا. كما أنها تعد مصدراً للعديد من اللغات الكريولية ومنبعاً للغات مشتقة مثل اللغة الأفريكانية. `    
+]
+    },
+    { "name": "Danish", "texts": [
+        "Nordkorea, officielt Den Demokratiske Folkerepublik Korea, er et land i Østasien i den nordlige del af den koreanske halvø. Pyongyang er både landets hovedstad samt den største by med en befolkning på godt 2,5 millioner. Mod nord og nordvest er landet omgivet af Kina og af Rusland langs Amnok (kendt som Yalu i Kina) og Tumen-floden. Landet grænser mod syd op til Sydkorea (officielt Republikken Korea) med den stærkt befæstede demilitariserede zone, der adskiller de to lande. Landets indbyggertal er på 25 millioner. "
+    ,"Kejserriget Japan (kyūjitai: 大日本帝國; shinjitai: 大日本帝国, romaji: Dai Nippon Teikoku), også kendt som Kejserlige Japan og det Japanske (Kejser)rige, var en japansk politisk statsdannelse, som fandtes i perioden fra meiji-restaurationen den 9. november 1867 til dets nederlag i 2. verdenskrig den 2. september 1945. Formelt ophørte det i 1947. "
+    ,"Ved industri forstås brugen af ”mekaniske” kraftkilder til at fremstille varer og forædle råvarer. Udtrykket industrialisering bruges om overgangen til damp, gas, olie, elektricitet som kraftkilder. Frem til industrialiseringen var al produktion bundet til de steder, hvor man havde bygget møller til at udnytte kraften fra vand og vind. Inden industrialiseringen var størstedelen af befolkningen beskæftiget med primære erhverv som landbrug, fiskeri, skovbrug og minedrift). Nu skete en omfattende ændring af samfundet, hvor de fleste fik arbejde i sekundære erhverv med bearbejdning af råvarer inden for industrien. Senere fik mange ansættelse i nye former for tjenesteydende erhverv. "    
+    ,"Gagarin er et stort nedslagskrater på Månen. Det befinder sig på den sydlige halvkugle på Månens bagside og er opkaldt efter den sovjetiske kosmonaut Jurij Gagarin (1934 – 1968). "
+    ,"Hviderusland (hviderussisk: Беларусь, tr. Bjelarus), officielt Republikken Belarus[3][4] (hviderussisk: Рэспубліка Беларусь, tr. Respublika Bjelarus), er et land i det østlige Europa. Hviderusland har 9,5 millioner indbyggere (2021), hvoraf 8,3 % er russere. For befolkningspyramider til 2100, se under Ukraine#Eksterne henvisninger. Hviderusland blev selvstændigt i 1991, da Den Hviderussiske socialistiske sovjetrepublik erklærede sin uafhængighed af Sovjetunionen."
+]
+    },
+    { "name": "Japanese", "texts": [
+        "ブルガリア共和国（ブルガリアきょうわこく）、通称ブルガリアは、東南ヨーロッパに位置する共和制国家。 バルカン半島に位置し、北にルーマニア、西にセルビア、北マケドニア、南にギリシャ、トルコと隣接し、東は黒海に面している。首都はソフィア。"
+    ,"パラナル天文台（パラナルてんもんだい、英語: Paranal Observatory）は、チリのアタカマ砂漠にある山・セロパラナルに設置された天体観測所で、ヨーロッパ南天天文台によって運営されている。超大型望遠鏡VLT (Very Large Telescope) はパラナルで最大の望遠鏡である。4台の口径8.2メートルの望遠鏡によって構成される。4台の望遠鏡で観測した光を干渉させ、Very Large Telescope干渉計 (VLTI) として観測を行うこともできる。干渉計としての撮像能力を向上させるため、4台の1.8メートル補助望遠鏡が追加されている。 "
+,"ラムタラ（Lammtarra, 1992年2月2日 - 2014年7月6日）は、アメリカ合衆国で生産され、イギリスとアラブ首長国連邦ドバイで調教された競走馬。イギリスと日本で種牡馬として供用された。 "    
+,"BMW（ビー・エム・ダブリュー、ベー・エム・ヴェー、ドイツ語: Bayerische Motoren Werke AG[注釈 1]、バイエルン発動機製造株式会社）は、ドイツのバイエルン州ミュンヘンを拠点とする自動車および自動二輪車、エンジンメーカーであり、ドイツのプレミアムブランド御三家の1つ。 "
+]
+    },
+    { "name": "Polish", "texts": [
+      "Hasan Nasr Allah (arab. حسن نصر الله, ur. 31 sierpnia 1960 w Karantinie, dzielnicy we wschodnim Bejrucie lub w Al-Bazurii koło Tyru, zm. 27 września 2024 w Ad-Dahii) – libański polityk, szyita, od 1992 do śmierci przywódca (sekretarz generalny) uznawanej w Stanach Zjednoczonych, Izraelu i Kanadzie za terrorystyczną organizacji Hezbollah (arab. Partia Boga) oraz jej wojskowej przybudówki. "
+        ,"Moutya[1] – tradycyjny taniec praktykowany w Republice Seszeli położonej na Oceanie Indyjskim, wywodzący się z tradycji afrykańskich niewolników sprowadzonych na wyspy wraz z francuskimi osadnikami na początku XVIII wieku[2]. "
+    ,"Letnie Igrzyska Paralimpijskie 2024 (fr. Jeux paralympiques d'été de 2024) – XVII edycja letnich igrzysk paralimpijskich rozegranych w dniach 28 sierpnia – 8 września 2024 roku w Paryżu. Były to pierwsze igrzyska paralimpijskie odbywające się w tym mieście. "
+    ,"Kolarstwo szosowe – najstarsza i najbardziej tradycyjna odmiana kolarstwa polegająca na ściganiu się na rowerach szosowych spełniających normy UCI po drogach publicznych. "
+    ]    
+}
 ];
 localStorage.streak = 0;
 let fails = 0;
@@ -152,15 +182,6 @@ let win = () => {
     gameEnded = true; 
     GuessInputButton.style.display = 'none';
     NewGameButton.style.display = 'inline';
-  //MessageDiv.classList.add('strokemegreen');
- // MessageDiv.classList.remove('strokemered');
-//let randomwintext=randomwintxtsMain[Math.floor(Math.random() *randomwintxts.length)]
-
-
-//MessageDiv.innerText = `${randomwintext.text} ${country.name}. Streak: ${localStorage.streak}`;
-
-  /*for (let i = 0; i < 4; i++) { NewHint() }
-  newgamecheck()*/
 }
 
 let lose = () => {
@@ -182,7 +203,7 @@ let checker = () => {
             wrongAnswersDiv.innerText=wrongAnswers;
             fails++;
         }
-    if(fails>3) {
+    if(fails>2) {
         lose();
     }
 }
